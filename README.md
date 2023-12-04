@@ -3,7 +3,8 @@ TPO Backend 23524 (2da entrega)
 
 Fabricio Bagatto,
 Giuliana Scaglione,
-Nicolás Galian.
+Nicolás Galian,
+Manuel Gardon.
 
 El repositorio tiene una carpeta faltante, tuvimos inconvenientes para subir a github la carpeta Django,
 la cual se encuentra cargada en el siguiente link junto con el proyecto completo.
